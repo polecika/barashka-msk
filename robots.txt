@@ -1,0 +1,20 @@
+User-agent: * 
+Disallow:
+
+User-Agent: Googlebot
+Disallow: /admin/ 
+Disallow: /admin
+Disallow: /characters/*/
+Disallow: /shows/*/
+Disallow: /search/
+
+User-Agent: Yandex
+Disallow: /admin/ 
+Disallow: /admin
+Disallow: /characters/*/
+Disallow: /shows/*/
+Disallow: /search/
+Host: barashka-msk.ru
+
+
+Sitemap: http://barashka-msk.ru/sitemap.xml
